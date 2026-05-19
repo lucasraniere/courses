@@ -85,3 +85,8 @@ dependencies = [
     "urllib3==2.5.0",
     "wcwidth==0.2.14",
 ]
+
+[tool.uv.workspace]
+members = [
+    "LangChain-LangGraph",
+]

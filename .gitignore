@@ -2,3 +2,4 @@
 .python-version
 darknet/
 *.mp4
+.env
